@@ -37,10 +37,13 @@ export const Experience = () => {
                         <h3 className="experience-title">Desarrollador Freelance Fullstack</h3>
                         <h4 className="experience-time">2018-2023</h4>
                     </header>
-                    <span><h4>Cotizo y realizo sistemas a medida para pequeños y medianos emprendedores. Algunos proyectos
-                        mencionados previamente fueron destinados a clientes. He realizado desde pequeños sistemas desktop
-                        con Windows Forms hasta grandes sistemas distribuidos en cloud con arquitecturas de microservicios
-                    </h4>
+                    <span>
+                        <h4>
+                            Diseñé y desarrollé sistemas a medida para emprendedores. 
+                            Algunos de estos proyectos fueron mencionados anteriormente como casos reales para clientes.
+                            He trabajado desde aplicaciones de escritorio en Windows Forms, hasta sistemas distribuidos 
+                            en la nube con arquitecturas de microservicios.
+                        </h4>
                     </span>
                 </article>
             </div>
@@ -53,8 +56,8 @@ export const Experience = () => {
                     </header>
                     <span>
                         <h4>
-                            Dí clases personalizadas de matemáticas y programación, desde niveles iniciales hasta universitarios avanzados.
-                            Encontré la docencia como una herramienta de afiance de conocimientosy satisfacción personal
+                            Brindé clases personalizadas de matemáticas y programación, desde niveles iniciales hasta universitarios avanzados.
+                            La docencia me permitió afianzar conocimientos y generar vínculos basados en el acompañamiento y la satisfacción de los estudiantes.
                         </h4>
                     </span>
                 </article>

@@ -8,10 +8,9 @@ export const AboutMe = () => {
       <div className="row aboutme">
         <div className="col-lg-12 text-center">
           <h2>¿Quien soy?</h2><br></br>
-          <h4>Soy un chico argentino de {age} años de edad,
-            estudiante avanzado de ingeniería en informática
-            en la Universidad Nacional Arturo Jauretche.
-            Programador y profesor particular de matemáticas y de programación.
+          <h4>Soy un estudiante de {age} años, cursando las últimas materias de la carrera de Ingeniería en Informática 
+            en la Universidad Nacional Arturo Jauretche. Me desempeño como programador Full-Stack .Net Sr y también brindo clases 
+            particulares de matemáticas y programación.
           </h4>
 
           <hr className="star-primary" />
@@ -35,12 +34,12 @@ export const AboutMe = () => {
           </a>
           <article className="portfolio-item-Two">
             <header>
-              <h3>Desarrollo full stack</h3>
+              <h3>Desarrollo</h3>
             </header>
             <span>
               <h4>
-                Soy desarrollador Full Stack, con experiencia en todo el ciclo de desarrollo de una aplicación: desde el diseño hasta su implementación. 
-                Trabajo tanto en el front-end como en el back-end, y cuento con conocimientos en diversas tecnologías que puedo aplicar en proyectos actuales o futuros.</h4>
+                Como desarrollador Full Stack, participo en todo el proceso de creación de una aplicación, 
+                desde su diseño hasta su puesta en producción y mantenimiento. Domino tanto el front-end como el back-end y aplico distintas tecnologías según las necesidades, requerimientos y alcance del proyecto.</h4>
             </span>
           </article>
         </div>
@@ -57,11 +56,11 @@ export const AboutMe = () => {
           </a>
           <article className="portfolio-item-One">
             <header>
-              <h3>Musica</h3>
+              <h3>Música</h3>
             </header>
             <span>
               <h4>
-                La música es una de mis grandes pasiones. Toco guitarra, saxo y bajo, y me gusta explorar distintos estilos. Mis favoritos son el jazz, el heavy metal y la música instrumental</h4>
+                La música es una de mis grandes pasiones. Toco guitarra, saxo y bajo, y me gusta explorar distintos estilos. Mis favoritos son el jazz, el heavy metal y la música instrumental.</h4>
             </span>
           </article>
         </div>
@@ -85,7 +84,7 @@ export const AboutMe = () => {
             <span>
               <h4>
                 Me apasionan las matemáticas, especialmente los temas más avanzados como el análisis complejo, ecuaciones diferenciales parciales,
-                álgebra abstracta y teoría de números. Disfruto de profundizar en los conceptos más desafiantes. </h4>
+                álgebra abstracta y teoría de números. Disfruto de profundizar en los conceptos más desafiantes.</h4>
             </span>
           </article>
           

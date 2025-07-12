@@ -1,0 +1,12 @@
+export { AboutMe } from './AboutMe/AboutMe.jsx';
+export { Body } from './Body/Body.jsx';
+export { Cards } from './Cards/Cards.jsx'; 
+export { Cv } from './Cv/Cv.jsx';
+export { Experience } from './Experience/Experience.jsx'; 
+export { Footer } from './Footer/Footer.jsx';
+export { Header } from './Header/Header.jsx';
+export { MuteBtn } from './Mute Button/MuteBtn.jsx';
+export { Navbar } from './Navbar/Navbar.jsx';
+export { Portfolio } from './Portfolio/Portfolio.jsx';
+export { Skills } from './Skills/Skills.jsx';
+export { ToTopBtn } from './ToTopBtn/ToTopBtn.jsx';

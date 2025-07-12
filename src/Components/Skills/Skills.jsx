@@ -16,8 +16,8 @@ export const Skills = () => {
               <h3>Backend .Net</h3>
             </header>
             <span>
-              <h4>C#, POO, Api Rest, ORM Entity Framework, DAO.Net, arquitectura de microservicios y monolítica, patrones de diseño,
-                inyección de dependencias,  estructuras de datos, Windows Forms, WCF</h4>
+              <h4>C#, POO, Api Rest, ORM Entity Framework, arquitectura de microservicios y monolítica, patrones de diseño,
+                inyección de dependencias, patrón Repository / Unit Of Work, estructuras de datos, Windows Forms, WCF, RabbitMQ, Background Services, Docker</h4>
             </span>
           </article>
         </div>
@@ -27,9 +27,9 @@ export const Skills = () => {
             <header>
               <h3>Frontend React</h3>
             </header>
-            <span><h4>Html, Css, Javascript, Manejo de jsons, api fetch,
+            <span><h4>React Ts, React Js, Redux, Html, Css, Javascript, api fetch,
               carga dinámica de datos, Node.js, Express.js,
-              Electron.js, React, Bootstrap
+              Electron.js, Bootstrap
             </h4>
             </span>
           </article>
@@ -41,8 +41,8 @@ export const Skills = () => {
               <h3>Databases Sql y NoSql</h3>
             </header>
             <span>
-              <h4>Diagrama entidad-relacion, SQL (MySql, MariaDB y
-                SQLServer, utilizando procedimientos almacenados e índices), NoSql (MongoDb, Cassandra, Redis)
+              <h4>Diagramación, planificación y ejecución de sistemas de almacenamiento. 
+                Bases de datos Relacionales (SQLServer, MySql, MariaDB, y PostgreSQL, usando SPs, índices, triggers y links), NoSql (MongoDb, Cassandra, Redis).
               </h4>
             </span>
           </article>
@@ -58,7 +58,7 @@ export const Skills = () => {
             </header>
             <span>
               <h4>
-                Scrum, Kanban, Scrumban, Xp
+                Gestión y organización de tableros Jira. Scrum, Kanban, Scrumban, Xp
               </h4>
             </span>
           </article>
@@ -82,7 +82,7 @@ export const Skills = () => {
               <h3>En proceso de aprendizaje</h3>
             </header>
             <span>
-              <h4>Azure Cloud y Angular</h4>
+              <h4>Azure Cloud, Angular y ML.Net</h4>
             </span>
           </article>
         </div>
@@ -97,9 +97,9 @@ export const Skills = () => {
             </header>
             <span>
               <h4>
-                Docker, Azure, Git, Jira, Bitbucket, Postman, Swagger, VS Code, VS Community,
+                Git, Bitbucket, Postman, Swagger, VS Code, VS Community,
                 HeidiSql, SQL Server Managment Studio, Heroku, MongoDb Compass,
-                MongoDb Atlas<br />Lenguajes: Python, Smalltalk, Java
+                MongoDb Atlas<br/>Lenguajes: Python, Smalltalk, Java
               </h4>
             </span>
           </article>

@@ -113,7 +113,7 @@ export const Cards = () => {
               en la nube ACRCloud, nube dedicada al procesamiento y reconocimiento de sonidos.
               <br />
             </h4>
-            <h5 className="dev-state">Actualmente en desarrollo</h5>
+            <h5 className="dev-state">Proyecto presentado en el congreso CACIC 2023</h5>
           </span>
           <div className="row fila-tags">
             <h5 className="col-lg-6 tags">React Native</h5>
@@ -168,7 +168,8 @@ export const Cards = () => {
           <h3 className="portfolioTitle page-scroll"><a href='https://github.com/RodrigoLago/react-node-porfolio' target="_blank">Portfolio</a></h3>
           <span>
             <h4>El sitio web que usted está viendo en este momento
-              se realizó con React, Node.js, Express.js, Webpack y Howler.js</h4>
+              se realizó en su primera versión con React, Node.js, Express.js, Webpack y Howler.js. En la segunda versión
+              de 2025 se implemento React Js 19 + Vite</h4>
 
 
           </span>

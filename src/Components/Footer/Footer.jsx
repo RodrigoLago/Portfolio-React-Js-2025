@@ -94,7 +94,7 @@ export const Footer = () => {
                 <a href="https://github.com/RodrigoLago/" target="_blank">
                   Rodrigo Lago
                 </a>
-                , Copyright © 2023</span>
+                , Copyright © 2025</span>
 
             </div>
           </div>
